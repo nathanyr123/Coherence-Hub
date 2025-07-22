@@ -4,5 +4,11 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { motion } from 'framer-motion';
-
+<ChristosActivationModule />
+...
+<CardContent className="p-6 space-y-4">
+  {/* your existing components */}
+  <ChristosActivationModule />
+</CardContent>
+...
 // ... (full component code will be added here manually if needed)
