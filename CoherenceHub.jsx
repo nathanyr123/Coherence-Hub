@@ -11,4 +11,7 @@ import { motion } from 'framer-motion';
   <ChristosActivationModule />
 </CardContent>
 ...
+  git add .
+git commit -m "Embed Christos Activation Protocol"
+git push
 // ... (full component code will be added here manually if needed)
